@@ -20,5 +20,3 @@ random()
 
  asdfa
  asdf
-
- asdf
