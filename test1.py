@@ -16,3 +16,4 @@ random
 prepare
 
 random()
+ print("asdf")
