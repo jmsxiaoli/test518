@@ -17,3 +17,6 @@ prepare
 
 random()
  print("asdf")
+
+ asdfa
+ asdf
